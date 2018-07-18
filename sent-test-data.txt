@@ -1,0 +1,41 @@
+1	simplistic , silly and tedious . 	NEG	1
+2	it's so laddish and juvenile , only teenage boys could possibly find it funny . 	NEG	1
+3	exploitative and largely devoid of the depth or sophistication that would make watching such a graphic treatment of the crimes bearable . 	NEG	1
+4	[garbus] discards the potential for pathological study , exhuming instead , the skewed melodrama of the circumstantial situation . 	NEG	1
+5	a visually flashy but narratively opaque and emotionally vapid exercise in style and mystification . 	NEG	1
+6	the story is also as unoriginal as they come , already having been recycled more times than i'd care to count . 	NEG	1
+7	about the only thing to give the movie points for is bravado -- to take an entirely stale concept and push it through the audience's meat grinder one more time . 	NEG	1
+8	not so much farcical as sour . 	NEG	1
+9	unfortunately the story and the actors are served with a hack script .	NEG	1 
+10	all the more disquieting for its relatively gore-free allusions to the serial murders , but it falls down in its attempts to humanize its subject . 	NEG	1
+11	a sentimental mess that never rings true . 	NEG	1
+12	while the performances are often engaging , this loose collection of largely improvised numbers would probably have worked better as a one-hour tv documentary . 	NEG	1
+13	interesting , but not compelling . 	NEG	1
+14	on a cutting room floor somewhere lies . . . footage that might have made no such thing a trenchant , ironic cultural satire instead of a frustrating misfire .	NEG	1 
+15	while the ensemble player who gained notice in guy ritchie's lock , stock and two smoking barrels and snatch has the bod , he's unlikely to become a household name on the basis of his first starring vehicle . 	NEG	1
+1	scores a few points for doing what it does with a dedicated and good-hearted professionalism . 	POS	1
+2	occasionally melodramatic , it's also extremely effective . 	POS	1
+3	spiderman rocks	POS	1
+4	an idealistic love story that brings out the latent 15-year-old romantic in everyone .	POS	1 
+5	at about 95 minutes , treasure planet maintains a brisk pace as it races through the familiar story . however , it lacks grandeur and that epic quality often associated with stevenson's tale as well as with earlier disney efforts . 	POS	1
+6	it helps that lil bow wow . . . tones down his pint-sized gangsta act to play someone who resembles a real kid . 	POS	1
+7	guaranteed to move anyone who ever shook , rattled , or rolled . 	POS	1
+8	a masterful film from a master filmmaker , unique in its deceptive grimness , compelling in its fatalist worldview . 	POS	1
+9	light , cute and forgettable . 	POS	1
+10	if there's a way to effectively teach kids about the dangers of drugs , i think it's in projects like the ( unfortunately r-rated ) paid .	POS	1
+11	a mostly intelligent , engrossing and psychologically resonant suspenser . 	POS	1
+12	it's this memory-as-identity obviation that gives secret life its intermittent unease , reaffirming that long-held illusions are indeed reality , and that erasing them recasts the self . 	POS	1
+13	hip-hop has a history , and it's a metaphor for this love story . 	POS	1
+16	there's no getting around the fact that this is revenge of the nerds revisited -- again . 	NEG	0
+17	the effort is sincere and the results are honest , but the film is so bleak that it's hardly watchable . 	NEG	0
+18	barry sonnenfeld owes frank the pug big time	NEG	0
+14	the tone is balanced , reflective and reasonable . 	POS	0
+15	morton is , as usual , brilliant .	POS	0
+16	even with all those rough edges safely sanded down , the american insomnia is still pretty darned good . 	POS	0
+1	the film will be online tomorrow	NEU	1
+2	we have see the film yesterday	NEU	1
+3	did you like the article ? Please take a minute to read it .	NEU	1
+4	an intuitive explanation of why neutral class is important is the following .	NEU	1
+5	opinion mining refers to the use of natural language processing , text analysis , computational linguistics , and biometrics to identify subjective information . 	NEU	1
+6	i went to school yesterday .	NEU	0
+7	a chatbot is a computer program or an artificial intelligence which conducts a conversation via auditory or textual methods .	NEU	0
